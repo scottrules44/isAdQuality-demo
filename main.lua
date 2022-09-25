@@ -10,8 +10,8 @@ title:setFillColor(1,1,1)
 
 local params  = {
     --required
-    iOSAppKey = "9865277d",
-    androidAppKey = "abbf956d",
+    iOSAppKey = "replace with your own",
+    androidAppKey = "replace with your own",
     --optional
     logLevel = "error",
     testMode = true,
